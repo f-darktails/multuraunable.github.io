@@ -1,1 +1,2 @@
-# multuraunable.github.io
+# 404 multura page
+only for mobile devices
